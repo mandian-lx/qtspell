@@ -12,6 +12,7 @@ Source0:	https://github.com/manisandro/%{name}/releases/download/%{version}/%{na
 
 BuildRequires:	cmake
 BuildRequires:	doxygen
+BuildRequires:	qmake5
 BuildRequires:	qt5-linguist-tools
 BuildRequires:	pkgconfig(enchant)
 BuildRequires:	pkgconfig(Qt5Widgets)
